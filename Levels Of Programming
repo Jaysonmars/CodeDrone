@@ -1,0 +1,6 @@
+Differences between High-Level Programming and Low-Level Programming in Drones.
+High-Level Programming points more towards the side of how the software and applications of the drone work together, such as the controller connecting to the drone, and the actions of each button and knob.
+Java and Python are used to program the controller connection to the drone via wifi.
+Low-level Programming deals with the firmware of the drone. It is important to know the functions of each piece of hardware, which indcludes the engines, motors, propellers and more.
+Most common use of low-level programming is used through C++, which can be a little harder to understand compared to other codes like Java and Python.
+Each piece of hardware executes a certain program, allowing thr drone to have a fixed path, letting it reach harder areas using a controller couldn't do possibly.
